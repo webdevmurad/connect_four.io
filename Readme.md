@@ -1,5 +1,7 @@
 Интересная игра "Четыре в ряд"
 
+https://webdevmurad.github.io/connect_four.io/.
+
 Что же тут применял:
 
 * Работа с DOM
